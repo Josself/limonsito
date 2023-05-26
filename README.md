@@ -24,7 +24,7 @@
   - <b>¿Porque cree a limón?</b>
   Limón fue un proyecto el cual tuvo inico el 31/05/2022 y esto fue porque quiero que mi bot sea utilizado por la gran comunidad de la aplicación Discord.
   
-  - <b>¿Pienas darle actualizaciones?</b>
+  - <b>¿Piensas darle actualizaciones?</b>
   Claro que sí, y me gustaría hacer un cambio de lenguaje de programación.
   
   - <b>¿Limón esta sujeto alguna entidad u algo?</b>
